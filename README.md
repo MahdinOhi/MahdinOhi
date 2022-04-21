@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MahdinOhi
+- 👀 I’m interested in codind and builting new things
+- 🌱 I’m currently learning python & html
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me- mahdinislamohi@gmail.com
