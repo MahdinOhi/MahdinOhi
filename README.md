@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm <font color="#8144ebba">@MahdinOhi</font></h1>
+<h1 align="center">Hi 👋, I'm <font color="#8144eb">@MahdinOhi</font></h1>
 
   
 
-<h3 align="center">A aspiring software engineer.</h3>
+<h3 align="center">An aspiring software engineer.</h3>
 
   
 
